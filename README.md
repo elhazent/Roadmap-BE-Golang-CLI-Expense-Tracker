@@ -7,8 +7,9 @@ Project ini cocok untuk latihan backend / CLI development dan dapat dikembangkan
 
 ---
 
-## Reference
-https://roadmap.sh/projects/expense-tracker
+🔗 Referensi project:  
+https://roadmap.sh/projects/expense-tracker :contentReference[oaicite:1]{index=1}
+
 
 ## 📌 Fitur Utama
 
