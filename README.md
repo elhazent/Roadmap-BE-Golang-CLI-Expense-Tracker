@@ -7,6 +7,9 @@ Project ini cocok untuk latihan backend / CLI development dan dapat dikembangkan
 
 ---
 
+## Reference
+https://roadmap.sh/projects/expense-tracker
+
 ## 📌 Fitur Utama
 
 Aplikasi ini memiliki fitur berikut:
